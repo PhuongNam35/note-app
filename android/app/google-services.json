@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608090304941",
+    "project_id": "note-flutter-practice",
+    "storage_bucket": "note-flutter-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608090304941:android:7d37d7b100a4d317e4f124",
+        "android_client_info": {
+          "package_name": "com.pnamacet.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQx_-79a-rKj8WYHku4ktj55V1nETxmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
